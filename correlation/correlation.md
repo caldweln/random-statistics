@@ -1,3 +1,5 @@
+# Correlation
+
 Correlation analysis is common practice when attempting to understand the relationships among variables. There are several statistical measurements that can be performed. And with such an understanding of a relationship, future values may be predicted and decisions taken.
 
 We will cover:
