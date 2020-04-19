@@ -16,7 +16,8 @@ Correlation or correlation analysis is studying the relationship between two var
 
 The predominant method is Pearsons, who developed this from the original correlation inventor, Francis Galton. It measures (if any) the linear relationship between the two given variables.
 
-https://siliconmeetssociety.files.wordpress.com/2020/04/ppmc.png
+![Pearsons Product Moment Correlation](https://siliconmeetssociety.files.wordpress.com/2020/04/ppmc.png)
+
 
 This coefficient can range from -1 (negative correlation) to +1 (positive correlation).
 
@@ -34,6 +35,6 @@ It may help an electric utility investigate the relationship between temperature
 
 *A worked example of Correlation*
 
-Bitcoin enthusiasts would claim this digital asset is a non-correlated asset to the market, like Gold, and worth holding as part of a larger portfolio. Although it is a new invention and the historical data is limited, we can began to investigate this... checkout this notebook.
+Bitcoin enthusiasts would claim this digital asset is a non-correlated asset to the market, like Gold, and worth holding as part of a larger portfolio. Although it is a new invention and the historical data is limited, we can began to investigate this... checkout this [notebook](https://colab.research.google.com/drive/1HsJanJ4akB8rCp4nliAa4GGlL_yVwBvI).
 
 https://colab.research.google.com/drive/1HsJanJ4akB8rCp4nliAa4GGlL_yVwBvI
